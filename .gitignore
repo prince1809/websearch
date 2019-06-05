@@ -1,0 +1,12 @@
+reports/
+logs/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+.idea
+.idea/vcx.xml
+
+db/test.txt
